@@ -60,7 +60,6 @@ This repository is a **community-driven effort**, and we welcome contributions f
 - Fork the repository and submit a **pull request** with your changes.
 - Clearly document **new samples or sources**, including their origin and purpose.
 - Provide **risk assessments or handling notes** for any new additions.
-- Follow our [CONTRIBUTING.md](CONTRIBUTING.md) for submission guidelines.
 
 We also welcome **requests** for specific samples or resources — open an issue or reach out to the maintainers to collaborate.
 
