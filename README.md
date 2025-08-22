@@ -4,8 +4,6 @@ This project is dedicated to assisting **malware analysts, researchers, and cybe
 
 Sourcing malware can be a complex and daunting task, often requiring knowledge of obscure or hard-to-access repositories. To address this, we have created a comprehensive, **living repository** that aggregates credible malware sources to streamline your workflow and enhance your ability to study and combat malicious software.
 
----
-
 ## Important Warning
 
 > **These are live, dangerous malware samples!**
@@ -28,8 +26,6 @@ We cannot stress enough the importance of handling these files with extreme caut
 - Keep **network connectivity disabled** during analysis.
 - Employ **professional malware analysis tools** to inspect the code safely.
 
----
-
 ## Usage Guidelines
 
 Follow these best practices to safely work with malware samples:
@@ -49,8 +45,6 @@ Follow these best practices to safely work with malware samples:
 5. **Follow Legal and Ethical Guidelines:**  
    Make sure your usage complies with all applicable laws and ethical standards.
 
----
-
 ## Contribution
 
 This repository is a **community-driven effort**, and we welcome contributions from analysts, researchers, and enthusiasts.
@@ -63,8 +57,6 @@ This repository is a **community-driven effort**, and we welcome contributions f
 
 We also welcome **requests** for specific samples or resources — open an issue or reach out to the maintainers to collaborate.
 
----
-
 ## Disclaimer
 
 The maintainers of this repository are **not responsible** for any damage, loss, or legal consequences resulting from misuse of the malware samples.
@@ -74,5 +66,3 @@ By accessing or using the resources in this repository, you acknowledge:
 - You are doing so at **your own risk**.
 - You are solely responsible for **safe handling** of any files used.
 - You will ensure compliance with **local laws and ethical guidelines**.
-
----
