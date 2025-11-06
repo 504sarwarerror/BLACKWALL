@@ -1,5 +1,3 @@
-## Overview
-
 This project is dedicated to assisting **malware analysts, researchers, and cybersecurity professionals** by providing a centralized resource for locating virus samples. These samples are intended for **in-depth analysis, research, reverse engineering**, or **educational review**.
 
 Sourcing malware can be a complex and daunting task, often requiring knowledge of obscure or hard-to-access repositories. To address this, we have created a comprehensive, **living repository** that aggregates credible malware sources to streamline your workflow and enhance your ability to study and combat malicious software.
